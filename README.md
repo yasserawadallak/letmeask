@@ -1,46 +1,80 @@
-# Getting Started with Create React App
+<p align="center">
+ <a href="#--sobre-o-projeto">Sobre</a> • 
+ <a href="#--tecnologias-utilizadas">Tecnologias Utilizadas</a> • 
+ <a href="#--como-executar-o-projeto">Como executar o projeto</a> • 
+ <a href="#-como-contribuir-com-o-projeto">Como contribuir com o projeto?</a> • 
+ <a href="#-autor">Autor</a> • 
+ <a href="#user-content--licença">Licença</a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<hr />
 
-## Available Scripts
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/74802742/122679021-8aa59c00-d1bf-11eb-866d-1d32eeee830e.gif" width="80%" heigth="80%" alt="nothing here">
+</p>
 
-In the project directory, you can run:
+### 💻  Sobre o projeto
+<p align="center">
+Projeto realizado dentro da NLW 06 - Together da <a href="https://github.com/rocketseat">Rocketseat</a>, onde podemos criar salas para responder perguntas de usuários e também podemos entrar dentro das salas e realizar perguntas, utilizando o cadastro via Google Account. A ideia é que possa ser utilizado por influenciadores, streamers, onde muitas vezes sentem dificuldades em conseguir conversar com as pessoas enquanto estão ao-vivo
+</p>
+<hr />
 
-### `yarn start`
+### 🛠  Tecnologias utilizadas
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 🚀  Como executar o projeto 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### `yarn test`
+## 🧭 Web
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
 
-### `yarn build`
+# Clone este repositório
+$ git clone git@github.com:aawadallak/letmeask
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd letmeask
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Instale as dependências
+$ yarn install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start
 
-### `yarn eject`
+# A aplicação será aberta na porta:8000 - acesse http://localhost:8000  
+  
+Enjoy!
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 💪 Como contribuir com o projeto
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  
+## 👨🏻‍🎓 Autor
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<a href="https://github.com/aawadallak">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/74802742?v=4" width="100px;" alt=""/>
+</a>
 
-## Learn More
+Me mande uma mensagem e ficarei feliz em te ajudar. 😄
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[![Youtube Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=http)](mailto:alexandre.awadallak@gmail.com)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-yasser-awadallak-1900951b0/)](https://www.linkedin.com/in/alexandre-awadallak)
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/aawadallak)](https://t.me/aawadallak)
+
+
+## 📝 Licença
+
+Este projeto está sobe a licença [MIT](./LICENSE).
