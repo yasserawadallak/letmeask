@@ -9,9 +9,6 @@
 
 <hr />
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/74802742/122679021-8aa59c00-d1bf-11eb-866d-1d32eeee830e.gif" width="80%" heigth="80%" alt="nothing here">
-</p>
 
 ### 💻  Sobre o projeto
 <p align="center">
