@@ -1,12 +1,12 @@
+import { Home } from "./pages/Home";
 
-import { Button } from './components/Button';
 
 
 
 function App() {
   return (
-    <Button/>
-  );
+    <Home/>
+  ); 
 }
 
 export default App;

@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 
+import './services/database'
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
