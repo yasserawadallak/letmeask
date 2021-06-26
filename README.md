@@ -43,7 +43,7 @@ $ yarn install
 # Execute a aplicação em modo de desenvolvimento
 $ yarn start
 
-# A aplicação será aberta na porta:8000 - acesse http://localhost:8000  
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000 
   
 Enjoy!
 ```
